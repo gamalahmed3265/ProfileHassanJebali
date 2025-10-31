@@ -1,20 +1,20 @@
 {
-  "title": "Contactez moi",
-  "description" : "Discutons de votre idée, projet ou de tout autre chose !",
+  "title": "Contactez-moi",
+  "description": "Collaborons sur votre prochain projet créatif ou discutons de vos idées en matière de contenu visuel, motion design ou publicité.",
   "fullname": "Nom complet",
-  "email": "Email",
+  "email": "E-mail",
   "phone": "Téléphone",
   "subject": "Sujet de votre message",
   "message": "Message",
-  "submit": "Envoyer",
-  "disabled": "Vous devez définir votre clé d'API resend",
-  "success": "Votre message a été envoyé avec succès",
-  "error": "Oups, une erreur s'est produite lors de l'envoi de votre message :(",
-  "budget": "Budget",
+  "submit": "Envoyer le message",
+  "disabled": "Veuillez configurer votre clé API e-mail avant d’envoyer des messages",
+  "success": "Votre message a été envoyé avec succès. Merci de votre contact !",
+  "error": "Oups, une erreur s’est produite lors de l’envoi de votre message.",
+  "budget": "Budget estimé",
   "subject_types": {
-    "project": "Parler d'un projet",
-    "bug": "Signaler un bug",
+    "project": "Démarrer un nouveau projet",
+    "bug": "Signaler un problème technique",
     "question": "Poser une question",
-    "other": "Autre"
+    "other": "Autres demandes"
   }
 }
